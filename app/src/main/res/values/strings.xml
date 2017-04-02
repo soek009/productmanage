@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ProductSystem</string>
+    <string name="title_activity_main_acticity">MainActicity</string>
 </resources>
